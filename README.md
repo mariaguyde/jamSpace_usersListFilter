@@ -1,5 +1,5 @@
-# JamSpace - Filtrage des utilisateurs en fonction de leurs listes de départements 
-
+# JamSpace 
+### Filtrage des utilisateurs en fonction de leurs listes de départements 
 
 ## Pour lancer le projet
 
