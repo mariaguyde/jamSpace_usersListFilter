@@ -1,5 +1,6 @@
 # JamSpace 
-### Filtrage des utilisateurs en fonction de leurs listes de départements 
+### Objectif : Développer une fonctionnalité (filtrage des utilisateurs en fonction de leurs listes de départements)
+### Stack technique : React.JS, HTML, CSS
 
 ## Pour lancer le projet
 
@@ -9,5 +10,5 @@ Dans le terminal, déplacez vous dans le dossier du projet et executez ces 2 com
 
 ### `npm start`
 
-Pour voit la page web, allez sur la page suivante :  http://localhost:3000
+Pour voir la page web, allez sur la page suivante :  http://localhost:3000
 
